@@ -8,6 +8,10 @@ featuredimage: /img/blog-index.jpg
 tags:
   - python
 ---
+
+
+```python
 import pandas as pd
 
 data = pd.read_csv("ss.csv")
+```
